@@ -1,6 +1,6 @@
 {
-  "user": [
-    { "username": "nted", "password": "nted" }
+  "users": [
+    { "username": "nted", "password": "$2b$10$T3rEZZJH2OgxFxP4C9ZcseuCxzjV2uNKSmrUrWx3G4qQhM4gFj1M2" }
   ],
   "keys": []
 }
