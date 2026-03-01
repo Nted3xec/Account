@@ -1,6 +1,4 @@
-{
-  "users": [],
-  "keys": [
-    "ted"
-  ]
-}
+"keys": [
+  { "username": "teddy", "key": "nted" },
+  { "username": "alice", "key": "mybini" }
+]
